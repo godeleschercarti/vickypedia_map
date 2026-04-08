@@ -1,7 +1,7 @@
 This Python file creates a PNG world map of the Victoria 3 game map and code for a clickable ImageMap Wikimedia file. To use:
 
 - Download and create an input and output folder in the directory
-- Place all requisite input files in the input folder (see below)
+- Place a copy of all requisite input files in the input folder (see below)
 - Edit the Python file if you want to make graphical changes, or to update game details
 
 Requisite input files:
